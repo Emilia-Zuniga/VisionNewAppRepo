@@ -99,6 +99,7 @@
 				526AB1CF2A6A09E800D29B91 /* VisionNewAppApp.swift */,
 				526AB1F92A6A113B00D29B91 /* SplashScreenView.swift */,
 				526AB1D12A6A09E800D29B91 /* ContentView.swift */,
+				6CD598D92A6A1233005099DE /* MainScreenView.swift */,
 				526AB1D32A6A09E900D29B91 /* Assets.xcassets */,
 				526AB1D52A6A09E900D29B91 /* Preview Content */,
 			);
@@ -261,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				526AB1D22A6A09E800D29B91 /* ContentView.swift in Sources */,
+				6CD598DA2A6A1233005099DE /* MainScreenView.swift in Sources */,
 				526AB1D02A6A09E800D29B91 /* VisionNewAppApp.swift in Sources */,
 				526AB1FA2A6A113B00D29B91 /* SplashScreenView.swift in Sources */,
 			);
