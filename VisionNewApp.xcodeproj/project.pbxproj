@@ -15,6 +15,7 @@
 		526AB1EB2A6A09E900D29B91 /* VisionNewAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 526AB1EA2A6A09E900D29B91 /* VisionNewAppUITests.swift */; };
 		526AB1ED2A6A09E900D29B91 /* VisionNewAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 526AB1EC2A6A09E900D29B91 /* VisionNewAppUITestsLaunchTests.swift */; };
 		526AB1FA2A6A113B00D29B91 /* SplashScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 526AB1F92A6A113B00D29B91 /* SplashScreenView.swift */; };
+		526AB1FC2A6A17E500D29B91 /* MainScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 526AB1FB2A6A17E500D29B91 /* MainScreenView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		526AB1EA2A6A09E900D29B91 /* VisionNewAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisionNewAppUITests.swift; sourceTree = "<group>"; };
 		526AB1EC2A6A09E900D29B91 /* VisionNewAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisionNewAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		526AB1F92A6A113B00D29B91 /* SplashScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreenView.swift; sourceTree = "<group>"; };
+		526AB1FB2A6A17E500D29B91 /* MainScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainScreenView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,7 +101,11 @@
 				526AB1CF2A6A09E800D29B91 /* VisionNewAppApp.swift */,
 				526AB1F92A6A113B00D29B91 /* SplashScreenView.swift */,
 				526AB1D12A6A09E800D29B91 /* ContentView.swift */,
+
 				6CD598D92A6A1233005099DE /* MainScreenView.swift */,
+=======
+				526AB1FB2A6A17E500D29B91 /* MainScreenView.swift */,
+
 				526AB1D32A6A09E900D29B91 /* Assets.xcassets */,
 				526AB1D52A6A09E900D29B91 /* Preview Content */,
 			);
@@ -265,6 +271,7 @@
 				6CD598DA2A6A1233005099DE /* MainScreenView.swift in Sources */,
 				526AB1D02A6A09E800D29B91 /* VisionNewAppApp.swift in Sources */,
 				526AB1FA2A6A113B00D29B91 /* SplashScreenView.swift in Sources */,
+				526AB1FC2A6A17E500D29B91 /* MainScreenView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
