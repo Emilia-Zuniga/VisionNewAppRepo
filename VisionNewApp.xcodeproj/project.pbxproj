@@ -14,6 +14,7 @@
 		526AB1E12A6A09E900D29B91 /* VisionNewAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 526AB1E02A6A09E900D29B91 /* VisionNewAppTests.swift */; };
 		526AB1EB2A6A09E900D29B91 /* VisionNewAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 526AB1EA2A6A09E900D29B91 /* VisionNewAppUITests.swift */; };
 		526AB1ED2A6A09E900D29B91 /* VisionNewAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 526AB1EC2A6A09E900D29B91 /* VisionNewAppUITestsLaunchTests.swift */; };
+		526AB1FA2A6A113B00D29B91 /* SplashScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 526AB1F92A6A113B00D29B91 /* SplashScreenView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		526AB1E62A6A09E900D29B91 /* VisionNewAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VisionNewAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		526AB1EA2A6A09E900D29B91 /* VisionNewAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisionNewAppUITests.swift; sourceTree = "<group>"; };
 		526AB1EC2A6A09E900D29B91 /* VisionNewAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisionNewAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		526AB1F92A6A113B00D29B91 /* SplashScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreenView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 			isa = PBXGroup;
 			children = (
 				526AB1CF2A6A09E800D29B91 /* VisionNewAppApp.swift */,
+				526AB1F92A6A113B00D29B91 /* SplashScreenView.swift */,
 				526AB1D12A6A09E800D29B91 /* ContentView.swift */,
 				526AB1D32A6A09E900D29B91 /* Assets.xcassets */,
 				526AB1D52A6A09E900D29B91 /* Preview Content */,
@@ -259,6 +262,7 @@
 			files = (
 				526AB1D22A6A09E800D29B91 /* ContentView.swift in Sources */,
 				526AB1D02A6A09E800D29B91 /* VisionNewAppApp.swift in Sources */,
+				526AB1FA2A6A113B00D29B91 /* SplashScreenView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
